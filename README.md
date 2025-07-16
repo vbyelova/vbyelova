@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vbyelova
 - 👀 I’m interested in coarse-grained MD simulation of protein hydrogel network formation!
-- 🌱 I’m currently learning C, C++, LAMMPS and HOOMD-blue
+- 🌱 I’m currently learning LAMMPS and C++
 - 💞️ I’m looking to collaborate on unfolding coarse-grained protein simulations
 - 📫 How to reach me : pop an email to py19vb@leeds.ac.uk
-- 😄 Pronouns: she/they ("she" preferred)
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: keep an eye out for birb in my work..
 
 <!---
